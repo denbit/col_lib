@@ -2,8 +2,8 @@ For using this package, please wget or curl  should be installed.
 
 Usage:
 
-- `source <(curl -sL https://example.com/color_echo.sh)`
-- `source <(wget -qO- https://example.com/color_echo.sh)`
+- `source <(curl -sL https://raw.githubusercontent.com/denbit/col_lib/refs/heads/main/color_echo.sh)`
+- `source <(wget -qO- https://raw.githubusercontent.com/denbit/col_lib/refs/heads/main/color_echo.sh)`
 
 Function:
 
